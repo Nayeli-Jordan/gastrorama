@@ -16,6 +16,12 @@
 
 /*Margin*/
 
+.margin-left--small { margin-left: 5px; }
+.margin-left{ margin-left: 10px; }
+
+.margin-right--small { margin-right: 5px; }
+.margin-right{ margin-right: 10px; }
+
 
 /*Padding*/
 
@@ -23,6 +29,17 @@
 /*Text align*/
 
 .text-center { text-align: center; }
+
+/*Type*/
+
+#content p { letter-spacing: 1px; }
+
+/*Display*/
+
+.block 				{ display: block; }
+.inline-block, 
+.inline-buttons *	{ display: inline-block; }
+.inline 			{ display: inline; }
 
 /*FOOTER*/
 
